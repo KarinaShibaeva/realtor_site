@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'flats',
     'flats_sale',
+    'siteinfo',
 ]
 
 MIDDLEWARE = [
